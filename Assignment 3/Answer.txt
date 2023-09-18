@@ -1,0 +1,15 @@
+Question: What are the benefits of using meta tag ?
+
+Answer: benefits of using meta tags are:-
+
+Social Media Sharing: Meta tags like the Open Graph Protocol tags allow developers to control how web
+pages are displayed when shared on social media platforms like Facebook, Twitter, and LinkedIn. They define
+the title, description, and image that appear in social media posts, making shared links more attractive and
+informative.
+
+Viewport Control: The viewport meta tag is crucial for responsive web design. It allows developers to set the
+initial scale and width of the viewport, making sure the webpage adapts well to different screen sizes and
+resolutions.
+
+Web Accessibility: Certain meta tags can improve web accessibility by providing additional information to
+assistive technologies, making it easier for users with disabilities to navigate and understand the content.

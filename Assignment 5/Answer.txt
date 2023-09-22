@@ -1,0 +1,6 @@
+Question: Define favicon and give an illustrative example.
+
+
+Answer: A favicon is a tiny icon included along with a website , which is displayed in places like the browsers address bar, page tab and bookmark menu.
+It is usually of size 16 X 16 px an stored in Gif or png format.
+Example: attached within this folder
